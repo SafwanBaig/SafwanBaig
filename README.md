@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Cloud Computing, Java, Kotlin
 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Cloud Computing
 
 - 📫 You can reach me at mirzasafwanbaig3@gmail.com
 
