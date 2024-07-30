@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MirzaSafwanBaig
 
-- 👀 I’m interested in Cloud Computing, Java, Kotlin
+- 👀 I’m interested in Cloud Computing, Java, AI and Deep Learning
 
 - 🌱 I’m currently learning Cloud Computing
 
